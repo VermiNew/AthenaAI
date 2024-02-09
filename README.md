@@ -179,13 +179,13 @@ Contributions to this project are welcome! Whether you're fixing a bug, improvin
 
 ## Badges
 
-[![License](https://img.shields.io/github/license/VermiNew/MindustryExecutable.svg?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/VermiNew/AthenaAI.svg?style=flat-square)](LICENSE)
 [![Batch](https://img.shields.io/badge/Platform-Batch-blue.svg)](https://en.wikipedia.org/wiki/Batch_file)
 [![Java](https://img.shields.io/badge/Platform-Java-red.svg)](https://www.java.com/)
 [![Build Status](https://img.shields.io/travis/com/VermiNew/AthenaAI/master.svg?style=flat-square)](https://travis-ci.com/VermiNew/AthenaAI)
 [![Coverage Status](https://img.shields.io/codecov/c/github/VermiNew/AthenaAI/master.svg?style=flat-square)](https://codecov.io/gh/VermiNew/AthenaAI)
-[![Stable Release](https://img.shields.io/badge/Release-Stable-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/releases/tag/stable)
-[![Contributor Friendly](https://img.shields.io/badge/Contributions-Welcome-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/blob/main/CONTRIBUTING.md)
+[![Stable Release](https://img.shields.io/badge/Release-Stable-darkgreen.svg)](https://github.com/VermiNew/AthenaAI/releases/tag/stable)
+[![Contributor Friendly](https://img.shields.io/badge/Contributions-Welcome-darkgreen.svg)](https://github.com/VermiNew/AthenaAI/blob/main/CONTRIBUTING.md)
 [![GitHub Issues](https://img.shields.io/github/issues/VermiNew/AthenaAI.svg?style=flat-square)](https://github.com/VermiNew/AthenaAI/issues)
 [![GitHub Stars](https://img.shields.io/github/stars/VermiNew/AthenaAI.svg?style=social&label=Stars)](https://github.com/VermiNew/AthenaAI/stargazers)
 
