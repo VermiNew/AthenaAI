@@ -161,3 +161,6 @@ cython_debug/
 
 # Ignore archive folder
 data/.archive/
+
+# Ignore config.ini file
+data/config.ini
