@@ -187,8 +187,6 @@ Contributions to this project are welcome! Whether you're fixing a bug, improvin
 [![Stable Release](https://img.shields.io/badge/Release-Stable-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/releases/tag/stable)
 [![Contributor Friendly](https://img.shields.io/badge/Contributions-Welcome-darkgreen.svg)](https://github.com/VermiNew/MindustryExecutable/blob/main/CONTRIBUTING.md)
 [![GitHub Issues](https://img.shields.io/github/issues/VermiNew/AthenaAI.svg?style=flat-square)](https://github.com/VermiNew/AthenaAI/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/VermiNew/AthenaAI.svg?style=flat-square)](https://github.com/VermiNew/AthenaAI/pulls)
-[![GitHub Forks](https://img.shields.io/github/forks/VermiNew/AthenaAI.svg?style=social&label=Fork)](https://github.com/VermiNew/AthenaAI/network/members)
 [![GitHub Stars](https://img.shields.io/github/stars/VermiNew/AthenaAI.svg?style=social&label=Stars)](https://github.com/VermiNew/AthenaAI/stargazers)
 
 ## Dependencies
