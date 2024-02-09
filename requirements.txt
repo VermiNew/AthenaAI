@@ -1,0 +1,17 @@
+# Colorama for colorful terminal text
+colorama
+
+# Pygments for syntax highlighting
+pygments
+
+# Requests for making HTTP requests
+requests
+
+# windows-curses for curses support on Windows (only needed for Windows environments)
+windows-curses; sys_platform == 'win32'
+
+# Rich library for enhanced console output
+rich
+
+# tqdm for progress bars
+tqdm
