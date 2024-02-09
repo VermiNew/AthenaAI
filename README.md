@@ -181,7 +181,7 @@ Contributions to this project are welcome! Whether you're fixing a bug, improvin
 
 [![License: MIT](https://img.shields.io/github/license/VermiNew/AthenaAI.svg?style=flat-square)](LICENSE)
 [![Batch](https://img.shields.io/badge/Platform-Batch-blue.svg)](https://en.wikipedia.org/wiki/Batch_file)
-[![Platform: Python](https://img.shields.io/badge/Platform-Python-orange.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Platform-Python-orange.svg)](https://www.python.org/)
 [![Build Status](https://img.shields.io/travis/com/VermiNew/AthenaAI/master.svg?style=flat-square)](https://travis-ci.com/VermiNew/AthenaAI)
 [![Coverage Status](https://img.shields.io/codecov/c/github/VermiNew/AthenaAI/master.svg?style=flat-square)](https://codecov.io/gh/VermiNew/AthenaAI)
 [![Stable Release](https://img.shields.io/badge/Release-Stable-darkgreen.svg)](https://github.com/VermiNew/AthenaAI/releases/tag/stable)
