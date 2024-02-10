@@ -95,9 +95,6 @@ class Chatbot:
             f"{Fore.GREEN}Chatbot instance has been created{Style.RESET_ALL}"
         )
 
-    def get_interactions(self):
-        return self.interactions
-
     def run(self):
         # Loads config
         self.logger.info(
