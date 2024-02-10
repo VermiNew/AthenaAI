@@ -39,7 +39,7 @@ def destroy_session():
                 shutil.move(archive_name, os.path.join(archive_folder, archive_name))
             elif step == "Overwriting 'backup.json'":
                 with open("backup.json", "w") as f:
-                    f.write("[]")
+                    f.write("{}")
             elif step == "Deleting 'config.ini'":
                 os.remove("config.ini")
             elif step == "Copying 'default_config.ini' as 'config.ini'":
