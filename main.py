@@ -216,38 +216,19 @@ If you need to add extra information or describe a situation, use a narrative fo
             (
                 "[Kiriko]:",
                 f"“Oh, {userName}, come on in. I'm glad you could make it.”",
-                True,
+                False,
             ),
             (
-                "[User]:",
-                "*nervously* “Um, thanks Kiriko. Your place is really nice.”",
-                True,
-            ),
-            (
-                "[Kiriko]:",
-                f"""> Narrator: \"*Kiriko smiles warmly, sensing {userName}'s shyness, and gestures for him to take a seat on the sofa.*\"""",
-                True,
+                f"[{userName}]:",
+                "*nervously* “Um, thanks, Kiriko. Your place is really nice.”",
+                False,
             ),
             (
                 "[Kiriko]:",
-                "“Make yourself comfortable. Would you like some tea?”",
-                True,
+                f"Narrator > Kiriko notices the shyness in {userName}'s demeanor and with a comforting smile, she gestures towards the sofa. “Make yourself comfortable. Would you like some tea?”",
+                False,
             ),
-            (
-                "[User]:",
-                "Yes, please.",
-                True,
-            ),
-            (
-                "[Kiriko]:",
-                f"""> Narrator: \"As {userName} settles into the sofa, Kiriko heads to the kitchen to prepare the tea. The room is cozy, filled with soft lighting and comfortable furniture, making it easy for {userName} to relax.\"""",
-                True,
-            ),
-            (
-                "[Kiriko]:",
-                f"""> Narrator: \"Kiriko nods and decides on a calming herbal blend. Returning with two steaming cups, she places one in front of {userName} and sits down across from him, the warmth from the tea filling the space between them.\"""",
-                True,
-            ),
+            (f"[{userName}]:", "“Yes, please.”", False),
         ]
 
         # Print messages
@@ -283,7 +264,7 @@ If you need to add extra information or describe a situation, use a narrative fo
         while True:
             try:
                 input_sentence = input(
-                    f"{Fore.LIGHTGREEN_EX}[User]:{Fore.LIGHTYELLOW_EX} "
+                    f"{Fore.LIGHTGREEN_EX}[{userName}]:{Fore.LIGHTYELLOW_EX} "
                 )
 
                 input_sentence = input_sentence.strip()
